@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/BALIO/Documents/proyectos/ionic/chess/www/lib/ionic/js/ionic.min.js",
+        "C:/Users/BALIO/Documents/proyectos/ionic/chess/gulpfile.js",
+        "C:/Users/BALIO/Documents/proyectos/ionic/chess/www/lib/ionic/js/ionic.js",
+        "C:/Users/BALIO/Documents/proyectos/ionic/chess/www/lib/ionic/js/ionic.bundle.min.js"
+    ]
+}
